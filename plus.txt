@@ -1,0 +1,9 @@
+#include.......
+
+cin >> a
+
+cin >> b
+
+plus = a + b;
+
+cout << plus 
